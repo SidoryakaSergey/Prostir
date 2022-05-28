@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.wraper {
+  width: 100%;
+  background-color: rgb(6, 30, 75);
+}
+
+.header {
+  padding: 20px;
+  height: 100vh;
+  background-color: rgb(6, 30, 75);
+}
+
+.logo {
+  width: 350px;
+  height: 84px;
+  background-image: url('../img/Prostir-color.png');
+  background-position: right center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+h1 {
+  margin: 20px;
+  text-align: center;
+  color: rgb(206, 148, 82);
+}
+
+._1 {
+  color: blue;
+}
+._2 {
+  color: rgb(226, 41, 165);
+}
+._3 {
+  color: rgb(20, 189, 76);
+}
+._4 {
+  color: rgb(212, 200, 20);
+}
+._5 {
+  color: rgb(197, 36, 36);
+}
+._6 {
+  color: rgb(171, 18, 177);
+}
