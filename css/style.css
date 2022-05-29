@@ -8,7 +8,6 @@ body {
 }
 
 .wraper {
-  /* width: 100vw; */
   height: 100vh;
   padding: 10px;
 
@@ -16,19 +15,15 @@ body {
 }
 
 .header {
-  /* padding: 20px; */
   background-color: #930e81;
 }
 
 .header__logo {
-  /* width: 350px; */
   height: 84px;
   background-image: url('../img/Prostir-orig.png');
   background-position: center center;
   background-repeat: no-repeat;
-  /* background-attachment: fixed; */
   background-size: contain;
-  /* padding: 5px; */
 }
 
 .header__telefons {
@@ -39,7 +34,6 @@ body {
 .header__telefons-icons {
 }
 .header__telefons span {
-  /* color: #a8eff7; */
 }
 
 .header__telefons a {
